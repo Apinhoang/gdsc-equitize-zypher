@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://gdsc-hackathon-3b3b1-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">1093711511555</string>
+  <string name="google_storage_bucket" translatable="false">gdsc-hackathon-3b3b1.appspot.com</string>
+  <string name="project_id" translatable="false">gdsc-hackathon-3b3b1</string>
+  <string name="google_api_key" translatable="false">AIzaSyBCeJ5xQjN0Km87GMxxXwi3SbWKP4VuJ60</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBCeJ5xQjN0Km87GMxxXwi3SbWKP4VuJ60</string>
+  <string name="google_app_id" translatable="false">1:1093711511555:android:a75284d8e1572260330e36</string>
+  <string name="default_web_client_id" translatable="false">1093711511555-2p2nk3qft7h2jf2c9vro8bp0q4gejhrg.apps.googleusercontent.com</string>
+</resources>

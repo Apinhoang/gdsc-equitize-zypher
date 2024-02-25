@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b58a3bc647e70774b8c7225eb3b51e7e, type: 3}
+  m_Name: UnityPlayerAccountSettings
+  m_EditorClassIdentifier: 
+  clientId: 7ed22803-4cea-4c65-8a8a-785b46f00bdc
+  scopeMask: -1
+  useCustomDeepLinkUri: 0
+  customScheme: https://player-login.unity.com/sign-in?session_id=c682d396-a098-4de0-9a7d-bc2d61ff5c52
+  customHost: https://player-login.unity.com/sign-in?session_id=c682d396-a098-4de0-9a7d-bc2d61ff5c52

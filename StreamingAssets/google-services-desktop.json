@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093711511555",
+    "firebase_url": "https://gdsc-hackathon-3b3b1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gdsc-hackathon-3b3b1",
+    "storage_bucket": "gdsc-hackathon-3b3b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093711511555:android:a75284d8e1572260330e36",
+        "android_client_info": {
+          "package_name": "com.ZypherGDSC.Equitize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093711511555-2p2nk3qft7h2jf2c9vro8bp0q4gejhrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCeJ5xQjN0Km87GMxxXwi3SbWKP4VuJ60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093711511555-2p2nk3qft7h2jf2c9vro8bp0q4gejhrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
